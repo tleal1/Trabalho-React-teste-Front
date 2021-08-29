@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+
+*{
+    background: linear-gradient(-90deg, #2E1BAB, #7E6CFB)
+}
+.Botoes {
+    font-family: 'Quicksand';
+}
+
+.Botoes span {
+    font-size: 20px;
+    color: #fff;
+}
+
+.Botoes button {
+    font-size: 15px;
+    background-color: #fff;
+}
